@@ -1,5 +1,5 @@
 {
-  "name": "spu-integer-math",
+  "name": "@xafero/spu-integer-math",
   "version": "0.0.4",
   "description": "JavaScript Integer Math (Int8, Int16, Int32, UInt8, UInt16, UInt32, UInt64)",
   "main": "dist/index.js",
