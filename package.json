@@ -1,6 +1,6 @@
 {
   "name": "spu-integer-math",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "JavaScript Integer Math (Int8, Int16, Int32, UInt8, UInt16, UInt32, UInt64)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/princess-rosella/spu-integer-math.git"
+    "url": "git+https://github.com/xafero/spu-integer-math.git"
   },
-  "author": "Princess Rosella of Daventry <princess.rosella.of.daventry@gmail.com>",
+  "author": "xafero",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/princess-rosella/spu-integer-math/issues"
+    "url": "https://github.com/xafero/spu-integer-math/issues"
   },
-  "homepage": "https://github.com/princess-rosella/spu-integer-math#readme",
+  "homepage": "https://github.com/xafero/spu-integer-math#readme",
   "devDependencies": {
     "typescript": "^4.7.4"
   }
